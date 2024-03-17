@@ -23,6 +23,6 @@ Make connections shown in circuit diagram.
 
 ### Authors
 Manas Bedekar:  https://github.com/manasbede</br>
-Aditi Deodhar:  https://github.com/adi-09</br>
+Aditi Deodhar:  https://github.com/deodharaditi</br>
 
 ### Support this project by giving :star:

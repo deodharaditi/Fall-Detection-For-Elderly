@@ -1,28 +1,30 @@
-# fall-detector
+# 🚨 Fall Detector
 
-This device is useful for elderly person,this device will detect anykind of fall 
-and alert will be send to concerned person. 
-Also this device can be used for activity tracking.Also panic button is provided in this device.
+This device is designed to detect falls in elderly individuals and send alerts to designated contacts. It also tracks daily activities and includes a panic button for emergencies.
 
-## Activity Tracking
-It is done using machine learining. For that unsupervised learining is used (K means clustering algorithm).
-Activities are classified into 3 category</br></br>
-**1.Running.**</br> **2.Walking.**</br> **3.Steady.**</br>
+## 🏃 Activity Tracking
+Activity tracking is achieved through machine learning using the K-means clustering algorithm. Activities are classified into three categories:
+- 🏃‍♂️ Running
+- 🚶 Walking
+- 🛌 Steady
 
-## Components needed:
-1.ATMega 328p</br>
-2.MPU6050</br> 
-3.SIM800L</br> 
-4.Buzzer</br> 
-5.LEDx3</br> 
-6.3.7 V  op,1000 mAh battery</br> 
+## 🔧 Components Needed
+1. ATMega 328p
+2. MPU6050
+3. SIM800L
+4. Buzzer
+5. LED x 3
+6. 3.7V LiPo battery (1000mAh)
 
-## How to use?
-Download falldetection.ino file and burn on arduino.</br>
-Make connections shown in circuit diagram.
+## 🛠️ How to Use
+1. Download the `falldetection.ino` file and burn it onto an Arduino.
+2. Make connections as shown in the circuit diagram.
 
-### Authors
-Manas Bedekar:  https://github.com/manasbede</br>
-Aditi Deodhar:  https://github.com/deodharaditi</br>
+🎬 Watch the demo [here](https://youtu.be/N05H29gj4JQ?si=E8rIQaHwa49nKKx1)
 
-### Support this project by giving :star:
+### 👩‍💻 Authors
+- Manas Bedekar: [GitHub](https://github.com/manasbede)
+- Aditi Deodhar: [GitHub](https://github.com/deodharaditi)
+
+### 🌟 Support this Project
+Show your support by giving this project a :star:

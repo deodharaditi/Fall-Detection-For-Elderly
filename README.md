@@ -20,7 +20,7 @@ Activity tracking is achieved through machine learning using the K-means cluster
 1. Download the `falldetection.ino` file and burn it onto an Arduino.
 2. Make connections as shown in the circuit diagram.
 
-🎬 Watch the demo [here](https://youtu.be/N05H29gj4JQ?si=E8rIQaHwa49nKKx1)
+🎬 Watch the demo [here](https://youtu.be/N05H29gj4JQ?si=E8rIQaHwa49nKKx1](https://youtu.be/0tKPvPf4nS8)
 
 ### 👩‍💻 Authors
 - Manas Bedekar: [GitHub](https://github.com/manasbede)
